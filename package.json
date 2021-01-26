@@ -1,5 +1,5 @@
 {
-  "name": "base64encode",
+  "name": "base64encode1",
   "version": "0.0.1",
   "description": "Base 64 character string encoding module",
   "main": "index.js",
