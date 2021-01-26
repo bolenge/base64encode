@@ -6,12 +6,19 @@
   "scripts": {
     "test": "node ./test.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bolenge/base64encode.git"
+  },
   "keywords": [
     "base64encode",
     "base64",
-    "encode",
-    "base64encoding"
+    "encode64"
   ],
   "author": "Don de Dieu Bolenge <dondedieubolenge@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bolenge/base64encode/issues"
+  },
+  "homepage": "https://github.com/bolenge/base64encode#readme"
 }
