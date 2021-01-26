@@ -1,0 +1,17 @@
+{
+  "name": "base64encode",
+  "version": "0.0.1",
+  "description": "Base 64 character string encoding module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "base64encode",
+    "base64",
+    "encode",
+    "base64encoding"
+  ],
+  "author": "Don de Dieu Bolenge <dondedieubolenge@gmail.com>",
+  "license": "MIT"
+}
