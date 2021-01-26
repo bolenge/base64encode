@@ -1,4 +1,4 @@
-## base64encode
+## base64encode1
 
 Base 64 character string encoding module
 
@@ -7,14 +7,14 @@ Base 64 character string encoding module
 This is a [Node.js] (https://nodejs.org/en/) module available at [npm registry] (https://www.npmjs.com/).
 
 ```bash
-$ npm install base64encode --save
+$ npm install base64encode1 --save
 ```
 
 ```js
-const base64encode = require('base64encode');
+const base64encode = require('base64encode1');
 const text = "Hello World !";
 
-console.log(text);
+console.log(base64encode(text));
 ```
 
 Result
